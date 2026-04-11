@@ -1,0 +1,9 @@
+{
+  "latest":       "1.0.0",
+  "download_url": "https://github.com/page5888/5888-xiaobian/releases/latest/download/5888-xiaobian.exe",
+  "changelog":    "首發版\n• 排程發文、海巡回覆、AI 小編一站搞定\n• 5888 錢包整合（Google 登入 + 點數折抵）\n• 100 點快換 3 天救急方案\n• 分享朋友雙方各得 50 點",
+  "min_required": "1.0.0",
+  "force_update": false,
+  "file_size_mb": 60,
+  "release_date": "2026-04-11"
+}
