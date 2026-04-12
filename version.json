@@ -1,7 +1,7 @@
 {
-  "latest":       "1.0.2",
+  "latest":       "1.0.3",
   "download_url": "https://github.com/page5888/5888-xiaobian/releases/latest/download/5888-xiaobian.exe",
-  "changelog":    "v1.0.2 — 詞句庫 + 時間軸修復\n• 內建 320 句海巡詞句庫，安裝即可使用\n• 修正時間軸「關閉」後排程仍繼續執行的問題\n• 產品頁新增更新紀錄 + 社群分享\n\nv1.0.1 — 修復登入視窗 bug\n• 修正 Wizard 步驟 2/3 無法開啟瀏覽器\n• Chrome 版本動態偵測\n\nv1.0.0 — 首發版\n• Threads 排程 + 海巡 + AI 小編 + 5888 錢包整合",
+  "changelog":    "v1.0.3 — 推薦碼 · 防偵測 · 版本面板\n• 鎖屏新增推薦碼輸入框，Google 登入自動綁定推薦關係\n• App 內新增「分享到 Threads / LINE」按鈕，自動帶邀請碼\n• 海巡回覆後新增 3-8 秒隨機停留（模擬真人，防鎖帳號）\n• 操作中顯示「模擬人類操作中，請勿操作其他視窗」\n• 停止按鈕 0.5 秒內生效（不再等 Selenium 跑完）\n• 導覽列顯示版本號 + 最近更新面板\n\nv1.0.2 — 詞句庫 + 時間軸修復\n• 內建 320 句海巡詞句庫\n• 修正時間軸關閉後排程仍繼續執行\n\nv1.0.1 — 修復登入視窗 bug\n• 修正 Wizard 步驟 2/3 無法開啟瀏覽器\n• Chrome 版本動態偵測\n\nv1.0.0 — 首發版\n• Threads 排程 + 海巡 + AI 小編 + 5888 錢包整合",
   "min_required": "1.0.0",
   "force_update": false,
   "file_size_mb": 40,
