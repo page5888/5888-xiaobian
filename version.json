@@ -1,7 +1,7 @@
 {
-  "latest":       "1.0.1",
+  "latest":       "1.0.2",
   "download_url": "https://github.com/page5888/5888-xiaobian/releases/latest/download/5888-xiaobian.exe",
-  "changelog":    "v1.0.1 — 修復登入視窗無法開啟的問題\n• 修正 Wizard 第 2/3 步「開啟登入視窗」無限重複開新視窗的 bug（freeze_support 漏補）\n• Chrome 版本改為動態偵測，以後 Chrome 更新也不會壞（原寫死 146）\n• 補上 undetected_chromedriver 相依模組\n\nv1.0.0 — 首發版\n• Threads 貼文排程 + 海巡回覆\n• AI 小編（Claude / Gemini）\n• 5888 錢包整合（Google 登入、月費訂閱、點數快換）\n• ECPay 信用卡付款（NT$290/30 天）",
+  "changelog":    "v1.0.2 — 詞句庫 + 時間軸修復\n• 內建 320 句海巡詞句庫，安裝即可使用\n• 修正時間軸「關閉」後排程仍繼續執行的問題\n• 產品頁新增更新紀錄 + 社群分享\n\nv1.0.1 — 修復登入視窗 bug\n• 修正 Wizard 步驟 2/3 無法開啟瀏覽器\n• Chrome 版本動態偵測\n\nv1.0.0 — 首發版\n• Threads 排程 + 海巡 + AI 小編 + 5888 錢包整合",
   "min_required": "1.0.0",
   "force_update": false,
   "file_size_mb": 40,
